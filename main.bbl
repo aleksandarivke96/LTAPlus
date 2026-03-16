@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{lamportLearningTLA}
+Leslie Lamport.
+\newblock Learning tla+.
+\newblock \url{https://lamport.azurewebsites.net/tla/learning.html}.
+
+\bibitem{learnTLAIndex}
+Hillel Wayne.
+\newblock Learn tla+.
+\newblock \url{https://learntla.com/index.html}.
+
+\end{thebibliography}
