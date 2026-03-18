@@ -1,5 +1,8 @@
-\babel@toc {serbian}{}\relax 
+\babel@toc {serbianc}{}\relax 
 \contentsline {section}{\numberline {1}Предговор}{3}{section.1}%
 \contentsline {section}{\numberline {2}Увод - Шта је TLA?}{4}{section.2}%
-\contentsline {section}{\numberline {3}Основни појмови}{5}{section.3}%
-\contentsline {section}{\numberline {4}Неки примери}{5}{section.4}%
+\contentsline {subsection}{\numberline {2.1}Инсталација}{4}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Кораци инсталације (TLA+ Toolbox)}{4}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Кораци инсталације (VS Code едитор)}{4}{subsubsection.2.1.2}%
+\contentsline {section}{\numberline {3}Основни појмови}{7}{section.3}%
+\contentsline {section}{\numberline {4}Неки примери}{7}{section.4}%
